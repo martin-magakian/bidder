@@ -1,0 +1,36 @@
+<Status> [200] OK
+<Response headers>
+{'Date': 'Thu, 26 Oct 2017 20:52:09 GMT', 'Content-Length': '10', 'Content-Type': 'text/plain; charset=utf-8', 'Server': 'fasthttp'}
+
+<Bid Agent Response>
+bids {
+  line_item_id: 278
+  creative_id: 331
+  bid_price_micros: 0
+}
+
+===
+<Status> [200] OK
+<Response headers>
+{'Date': 'Thu, 26 Oct 2017 20:52:09 GMT', 'Content-Length': '10', 'Content-Type': 'text/plain; charset=utf-8', 'Server': 'fasthttp'}
+
+<Bid Agent Response>
+bids {
+  line_item_id: 520
+  creative_id: 1080
+  bid_price_micros: 0
+}
+
+===
+<Status> [200] OK
+<Response headers>
+{'Date': 'Thu, 26 Oct 2017 20:52:09 GMT', 'Content-Length': '11', 'Content-Type': 'text/plain; charset=utf-8', 'Server': 'fasthttp'}
+
+<Bid Agent Response>
+bids {
+  line_item_id: 612
+  creative_id: 1182
+  bid_price_micros: 2000
+}
+
+===
