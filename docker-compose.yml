@@ -2,7 +2,8 @@ version: '2'
 services:
 
   bidder:
-    image: martin-magakian/bidder
+    build: .
+    image: martinmagakian/bidder
     ports:
       - "3001:3001"
     restart: always
